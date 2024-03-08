@@ -10,6 +10,7 @@
             "email": "prateekvns62@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "files": [
