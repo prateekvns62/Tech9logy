@@ -1,0 +1,22 @@
+{
+    "name": "tech9logy/module-tathastu",
+    "description": "Tech9logy Tathastu",
+    "version": "1.0.0",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Prteek Kumar Singh",
+            "email": "prateekvns62@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Tech9logy\\Tathastu\\": ""
+        }
+    }
+}
